@@ -1,0 +1,2 @@
+Thus far, I don't know how to remove a file from this Github interface!
+I can certainly do it in GIT, but this interface seems to offer too much protection.
