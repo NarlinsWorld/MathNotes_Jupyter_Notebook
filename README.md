@@ -1,4 +1,4 @@
-# Narlin
+# Read Me. MathNotes_Jupyter_Notebook
 Various code snippets and sometimes directions about where code is located.
 These are primarily python ipynb files about various aspects of math.  Indeed, most of the files .ipynb are jupyter notebook files which include an amalgamation of markdown and python code.  Not all of the markdown is original writing.  Most of it is original and written by me, but sometimes parts are lifted, with or without attribution from sources such as mathstackexchange. 
 
